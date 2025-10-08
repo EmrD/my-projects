@@ -107,10 +107,3 @@
 
 ## Google Colab NGROK MCP Server GPT OSS  
 **Teknolojiler:** Python, Google Colab, Ngrok  
-
-
-
-<script>
-
-  alert(document.cookie)
-</script>
