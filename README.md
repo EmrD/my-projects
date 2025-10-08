@@ -1,4 +1,4 @@
-# Projelerim [TR]
+# Projelerim
 
 ## ASP.NET Yardım Masası Projesi  
 **Teknolojiler:** ASP.NET, C#
@@ -107,3 +107,10 @@
 
 ## Google Colab NGROK MCP Server GPT OSS  
 **Teknolojiler:** Python, Google Colab, Ngrok  
+
+
+
+<script>
+
+  alert(document.cookie)
+</script>
