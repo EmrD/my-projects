@@ -1,5 +1,8 @@
 # Projelerim
 
+## Google Chrome M145 AI Assitance
+https://developer.chrome.com/blog/new-in-devtools-145/#ai_assistance_updates
+
 ## ASP.NET Yardım Masası Projesi  
 **Teknolojiler:** ASP.NET, C#
 
